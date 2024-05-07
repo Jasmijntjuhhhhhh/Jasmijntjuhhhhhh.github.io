@@ -1,17 +1,33 @@
 body {
-	background-color: grey;
+	background-color: #181332;
 	background-size: cover;
+	margin: 0;
 }
 
 h1 {
-	color: white;
+	font-family: "Courier New", Courier, monospace;
+	color: #BFCFDA;
+	padding: 10px;
 }
 
 p {
-	color: white;
+	font-family: "Courier New", Courier, monospace;
+	color: #BFCFDA;
+	padding: 10px;
 }
 
 a {
-	color: white;
+	font-family: "Courier New", Courier, monospace;
+	color: #BFCFDA;
 	font-weight: bold;
+}
+
+nav {
+	font-family: "Courier New", Courier, monospace;
+	background-color: #0f0c1f;
+	padding: 15px;
+}
+
+img {
+	padding: 10px;
 }
